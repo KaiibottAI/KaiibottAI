@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KaiibottAI
+- 👀 I’m interested in ... discovering more with Python and expanding my current IT career to the more automated side of the world
+- 🌱 I’m currently learning ... a Coursera course with Python sponsered by Google
+- 💞️ I’m looking to collaborate on ... a special Discord messaging bot to use for a friend's Discord server
+- 📫 How to reach me ... probably not here :)
